@@ -1,2 +1,2 @@
-# simplecode
-some JS examples
+# lotto game
+JS example
