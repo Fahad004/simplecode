@@ -1,0 +1,2 @@
+# simplecode
+some JS examples
