@@ -1,0 +1,20 @@
+/* Muhammad Fahad   CSS comment
+   Project 3
+   Due Date: Oct 19
+   Submission Date: Oct 19 */
+
+
+/* include padding and border in element's
+   total width and height. */
+* { box-sizing: border-box; }
+
+body { background-color: #e0e0e0;
+color: #000060; 
+font-family: Verdana, Arial, sans-serif; }
+
+button { width: 220px; height: 50px; 
+         margin: 5px; }
+img { background-color: #333333;
+      color: red;
+      margin: 5px; height:100px;
+      width:100px; }
